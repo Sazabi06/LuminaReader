@@ -1,12 +1,14 @@
 # LuminaReader 📖
 
-A modern, lightweight Markdown & PDF viewer for Windows with a focus on scientific document rendering.
+An open-source, lightweight Markdown & PDF viewer with a focus on scientific document rendering.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Python](https://img.shields.io/badge/python-3.9+-green)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 
 <img src="LuminaReader.png" width="128" height="128" alt="LuminaReader Icon">
+
+## LuminaReader is built with AI agent.
 
 ## Features ✨
 
@@ -277,3 +279,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <p align="center">
   Made with ❤️ for the scientific community
 </p>
+
