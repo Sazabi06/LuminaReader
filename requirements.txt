@@ -1,0 +1,14 @@
+# LuminaReader - Python Dependencies
+# ===================================
+
+# Core GUI Framework
+PySide6>=6.5.0
+
+# Markdown Processing (optional - for enhanced Markdown support)
+markdown>=3.5.0
+
+# PDF Processing (optional - for native PDF handling)
+PyMuPDF>=1.23.0
+
+# Build Tool
+pyinstaller>=6.0.0
